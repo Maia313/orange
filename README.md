@@ -1,5 +1,5 @@
 # orange
 
-[Example layout](https://maia313.github.io/orange/ 'Click to see the livepage')
+[Example layout](https://maia313.github.io/orange/ 'Click to see the page live')
 
 
